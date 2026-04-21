@@ -84,7 +84,7 @@ mini.read_code()
 
 ```
 ### Option 2:Run from File
-
+```python
 mini.file_to_code("path/to/code.txt")
 mini.read_code() 
-
+```
